@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@systemzero/baileys": "^1.0.0",
+    "@systemzero/baileys": "^1.0.6",
     "aki-api": "^7.0.1",
     "axios": "^1.15.1",
     "chalk": "4.1.2",
