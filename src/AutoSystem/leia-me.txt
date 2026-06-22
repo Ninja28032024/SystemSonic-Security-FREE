@@ -1,0 +1,1 @@
+Aqui é onde você vai montar automações por fora do fluxo de mensagens e comandos que o Bot em si tem. Aqui é o local onde você pode automatizar vendas por conversas privadas, ou até mesmo quem sabe um envio de algo específico para um grupo específico no WhatsApp, ou criar uma lojinha no WhatsApp e usar apenas a função que tem aqui, ao invés de usar junto o fluxo principal do Bot.
