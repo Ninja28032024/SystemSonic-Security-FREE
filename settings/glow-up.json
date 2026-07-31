@@ -1,0 +1,9 @@
+{
+  "isBotRei": false,
+  "githubToken": "YOUR_GITHUB_TOKEN",
+  "githubUser": "Ninja28032024",
+  "githubRepo": "SystemSonic-Security-FREE",
+  "githubBranch": "main",
+  "checkIntervalMinutes": 5,
+  "pterodactylServer": false
+}
