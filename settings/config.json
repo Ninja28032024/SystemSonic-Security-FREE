@@ -1,11 +1,11 @@
 {
-  "botName": "SystemSonic Security",
+  "botName": "SYSTEN SONIC",
   "ownerName": "Ninja Tech</>",
   "botNumber": "",
   "ownerNumber": "",
-  "botVersion": "2.0",
+  "botVersion": "2.5",
   "botDescription": "Um bot de WhatsApp Multifuncional.",
-  "prefix": "",
+  "prefix": ",",
   "prefixoPersonalizado": true,
   "blockAllCommands": false
 }
