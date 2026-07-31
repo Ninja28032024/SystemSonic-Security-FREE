@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/lib/img-menu/IMG-20260321-WA0120.jpg" width="600" alt="System Sonic Banner">
+  <img src="banner.jpg" width="600" alt="System Sonic Banner">
   
   <h1><p align="center"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=60&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&height=150&lines=SYSTEM+SONIC+SECURITY+FREE;By:+TheNinjaTechDeveloper" alt="Typing SVG" /></a></p></h1>
   
